@@ -1,0 +1,15 @@
+{
+    "name": "duplicatepost/duplicate-post",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "Duplicatepost\\DuplicatePost\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dpost"
+        }
+    ],
+    "require": {}
+}
